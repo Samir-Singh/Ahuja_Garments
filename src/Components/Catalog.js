@@ -3,7 +3,7 @@ import NavBar from "./Navigation/NavBar";
 import Footer from "./Navigation/Footer";
 import HeroImage from "./Navigation/HeroImage";
 
-import TopBanner from "./Navigation/TopBanner";
+// import TopBanner from "./Navigation/TopBanner";
 
 import data from "../data/Allproducts.json";
 import ProductDetails from "./ProductDetails";

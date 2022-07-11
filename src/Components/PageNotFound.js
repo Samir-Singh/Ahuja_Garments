@@ -7,7 +7,6 @@ import NavBar from "./Navigation/NavBar";
 import "../styles/pagenotfound.scss";
 import Footer from "./Navigation/Footer";
 import HeroImage from "./Navigation/HeroImage";
-import TopBanner from "./Navigation/TopBanner";
 
 export default function PageNotFound() {
   return (

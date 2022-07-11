@@ -10,7 +10,7 @@ const NavBar = lazy(() => import("./Navigation/NavBar"));
 const Footer = lazy(() => import("./Navigation/Footer"));
 const HeroImage = lazy(() => import("./Navigation/HeroImage"));
 const Products = lazy(() => import("./Products"));
-const TopBanner = lazy(() => import("./Navigation/TopBanner"));
+// const TopBanner = lazy(() => import("./Navigation/TopBanner"));
 
 export default function Shopping(props) {
   const collectionname = props.match.params.collectionname;

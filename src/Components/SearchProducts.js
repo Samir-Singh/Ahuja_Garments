@@ -5,7 +5,7 @@ import Footer from "./Navigation/Footer";
 
 import Product from "./Product";
 import products from "../data/Allproducts.json";
-import TopBanner from "./Navigation/TopBanner";
+// import TopBanner from "./Navigation/TopBanner";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";

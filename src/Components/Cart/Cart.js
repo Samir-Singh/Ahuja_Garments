@@ -3,7 +3,7 @@ import NavBar from "../Navigation/NavBar";
 import Footer from "../Navigation/Footer";
 import HeroImage from "../Navigation/HeroImage";
 import CartItems from "./CartItems";
-import TopBanner from "../Navigation/TopBanner";
+// import TopBanner from "../Navigation/TopBanner";
 import SavedItems from "./SavedItems";
 import CartSummary from "./CartSummary";
 import { GlobalCartContext } from "../../context/CartContext";
